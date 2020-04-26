@@ -1,0 +1,6 @@
+
+com.baidu.haokan/.app.activity.HomeActivity
+
+
+
+
